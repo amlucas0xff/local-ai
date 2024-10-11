@@ -1,4 +1,4 @@
-**ExL2 Quantization Procedure (Using Oobabooga's Text Generation UI)**
+### ExL2 Quantization Procedure (Using Oobabooga's Text Generation UI)
 
 **Introduction:**  
 This guide is here to help Linux users learn how to quantize LLMs (large language models) with as little hassle as possible, using the Text Generation UI tool. The goal is to let you tweak your models to fit your available VRAM and make them run efficiently without getting bogged down in errors.
